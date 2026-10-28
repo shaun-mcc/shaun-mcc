@@ -3,7 +3,7 @@
 Cybersecurity graduate pursuing a cybersecurity role
 🎓 WGU | 🛡️ CySA+ · Security+ · PenTest+
 
-- Languages & Scripting: Python, Bash, SQL
+- Languages & Scripting: Python, Bash, SQL, PowerShell
 - Tools: Wireshark, Nmap, Autopsy, Burp Suite, Metasploit
 - Current Featured project: [Python Firewall Simulator](https://github.com/shaun-mcc/python-firewall-simulator)
 - Based in Omaha, NE · Open to remote work & relocation
