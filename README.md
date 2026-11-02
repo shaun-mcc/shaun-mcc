@@ -8,9 +8,9 @@ Cybersecurity graduate pursuing a cybersecurity role
 - Current Featured project: [Python Firewall Simulator](https://github.com/shaun-mcc/python-firewall-simulator)
 - Based in Omaha, NE · Open to remote work & relocation
   
-- 🌱 I’m currently learning: JavaScript with node.js and Java with Spring Boot 
+- I’m currently learning: JavaScript with node.js
 
--⚡Fun Fact: I can do a kickflip
+⚡Fun Fact: I can do a kickflip
 
 
 [Connect on LinkedIn](https://www.linkedin.com/in/shaun-mccrimmon)
