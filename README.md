@@ -5,7 +5,7 @@ Cybersecurity graduate pursuing a cybersecurity role
 
 - Languages & Scripting: Python, Bash, SQL, PowerShell
 - Tools: Wireshark, Nmap, Autopsy, Burp Suite, Metasploit
-- Current Featured project: [Python Firewall Simulator](https://github.com/shaun-mcc/python-firewall-simulator)
+- Current Featured project: [Python Authentication Log Analyzer]([https://github.com/shaun-mcc/python-authentication-log-analyzer])
 - Based in Omaha, NE · Open to remote work & relocation
   
 - I’m currently learning: JavaScript with node.js
